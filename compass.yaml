@@ -1,0 +1,18 @@
+name: Fabric
+id: 'ari:cloud:compass:32bd3907-7ed2-4d9c-88c3-b836a5a93d57:component/ff210e48-f95a-49b7-8031-06e8fe945299/9b32c582-11cb-4c12-950a-53921055bdf5'
+description: null
+configVersion: 1
+typeId: SERVICE
+ownerId: 'ari:cloud:identity::team/1cbf54d5-a848-45e3-a3b3-1c52e6227e9b'
+fields:
+  tier: 4
+links:
+  - name: null
+    type: REPOSITORY
+    url: 'https://github.com/TomsAtlassianOrganisation/Fabric'
+relationships: {}
+labels: null
+customFields: null
+
+# Learn more about formatting compass.yml:
+# https://go.atlassian.com/compass-yml-format
