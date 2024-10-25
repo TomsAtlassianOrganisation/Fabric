@@ -9,3 +9,4 @@ resource "google_bigquery_dataset" "allowed_3" {
     special_group = "allUsers"
   }
 }
+# comment line
